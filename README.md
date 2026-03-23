@@ -41,3 +41,8 @@ The notebook studies this problem through ten sections, building progressively f
 | $\varepsilon$-Greedy | Linear | Fixed rate | No |
 | Posterior Mean Greedy | Linear | None | Asymptotic |
 | **Thompson Sampling** | **Sublinear** | **Uncertainty-driven** | **Yes** |
+
+<br>
+
+<img width="1589" height="593" alt="image" src="https://github.com/user-attachments/assets/58696c55-1ed2-4929-98fe-14c2731c8125" />
+
