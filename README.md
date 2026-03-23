@@ -1,6 +1,6 @@
-# Multi-Armed Bandit as a Sequential Learning Problem
+# Multi-Armed Bandit as a Bayesian Learning Problem
 
-A sequential decision problem under uncertainty in which an agent repeatedly selects among several alternatives with unknown expected rewards. The central question is: **how should the agent balance immediate reward against the value of learning, when experimentation itself has a cost?**
+This project studies a sequential decision problem under uncertainty in which an agent repeatedly selects among several slot machine with unknown expected rewards. The central question is: **how should the agent balance immediate reward against the value of learning, when experimentation itself has a cost?**
 
 ---
 
